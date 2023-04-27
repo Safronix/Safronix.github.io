@@ -14,21 +14,42 @@ nav{
 ul{
     width: 50%;
     margin-left: auto;
+    position: relative;
+    left: 120px;
+    font-size: 20px;
 }
 .heroImg{
     height: 600px;
     padding: 25px;
 }
 .content{
-    width: 500px;
+    width: 750px;
     margin: 0 auto;
 }
+.text{
+    width: 750px;
+    text-align: justify;
+    text-indent: 30px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    padding: 15px 32px;
+    position: relative;
+    left: 250px;
+    margin: 25px;
+}
 footer{
-    background-color: #373738;
-    padding: 20px;
+    background-color: #6f6f71;
+    padding: 10px;
 }
 footer ul{
     display: inline-block;
     vertical-align: top;
     padding: 15px;
+    position: relative;
+    left: 705px;
+    font-size: 20px;
 }
